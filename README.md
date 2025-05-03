@@ -41,7 +41,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Bonder-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daniel-bonder/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Bonder-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/daniel-bonder/](https://www.linkedin.com/in/daniel-bonder1/))
 [![Email](https://img.shields.io/badge/Email-danielbonder123@gmail.com-red?style=flat-square&logo=gmail)](mailto:danielbonder123@gmail.com)
 
 ---
