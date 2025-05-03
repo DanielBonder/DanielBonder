@@ -11,7 +11,6 @@
 🎓 Final-year student in **Economics & Information Systems**  
 👨‍🏫 I teach web development to high school students in Israel  
 💻 I love creating tools that turn complex data into simple, helpful solutions  
-🏆 Hackathon finalist – built a platform to support small businesses during crisis  
 🚀 Always eager to learn, collaborate, and grow in tech
 
 ---
