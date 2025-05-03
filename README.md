@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">🌟 Daniel Bonder 🌟</h1>
-<p align="center">
-  <strong>💻 Full-Stack Developer</strong><br>
-  <strong>📊 Data Analyst</strong>
-</p>
+<h3 align="center">
+  💻 Full-Stack Developer <br>
+  📊 Data Analyst
+</h3>
 
 ---
 
