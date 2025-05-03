@@ -25,8 +25,8 @@
 
 ### 📌 Featured Projects
 
-- 🧠 **[Nutrition Management System](https://github.com/DanielBonder/Nutrition-Management-System)**  
-  A full-stack platform for dietitians and clients: meal planning, appointments, and payments
+- 🧠 **[Nutrition Management System](https://github.com/DanielBonder/diet)**  
+  A full-stack platform for dietitians and clients: personalized meal plans, appointments, and payment tracking
 
 - 📊 **[Finland BI Dashboard](https://github.com/DanielBonder/Finland-BI-Dashboard)**  
   A Power BI project analyzing Finland's national statistics and regional trends
