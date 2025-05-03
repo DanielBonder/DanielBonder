@@ -49,7 +49,6 @@
 
 ---
 
-### 😄 Pronouns: He/Him  
 ### ⚡ Fun Fact:
 I believe every problem can be simplified with the right UI, a smart query, or a little creative thinking.
 
