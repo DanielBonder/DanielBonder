@@ -7,8 +7,6 @@
 🎓 Final-year student in **Economics & Information Systems**  
 💻 Passionate about **data**, **code**, and building smart tools that make life easier  
 👨‍🏫 Teaching web development to high school students  
-🏆 Hackathon Finalist – Helped small businesses with tech during crisis
-
 ---
 
 ### 🔧 Tech Stack
@@ -32,10 +30,6 @@
 
 - 📊 **[Finland BI Dashboard](https://github.com/DanielBonder/Finland-BI-Dashboard)**  
   A Power BI project analyzing Finland's national statistics and regional trends
-
-- 💼 **[Hackathon Business Platform](https://github.com/DanielBonder/Hackathon-Support-Businesses)**  
-  Built in 48 hours to support local businesses affected by crisis
-
 ---
 
 ### 🤝 Looking to Collaborate On:
@@ -48,7 +42,7 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Bonder-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daniel-bonder/)
-[![Email](https://img.shields.io/badge/Email-danielbonderwork@gmail.com-red?style=flat-square&logo=gmail)](mailto:danielbonderwork@gmail.com)
+[![Email](https://img.shields.io/badge/Email-danielbonderwork@gmail.com-red?style=flat-square&logo=gmail)](mailto:danielbonder123@gmail.com)
 
 ---
 
