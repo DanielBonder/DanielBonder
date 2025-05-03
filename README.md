@@ -1,6 +1,6 @@
 <!-- באנר עם טקסט מונפש -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Hi+there!+I'm+Daniel+Bonder+👋;Full-stack+Developer+%7C+Data+Analyst+%7C+Educator;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Hi+there!+I'm+Daniel+Bonder+👋;Full-stack+Developer+%2F+Data+Analyst;Welcome+to+my+GitHub+profile!" />
 </p>
 
 <h1 align="center">🌟 Daniel Bonder 🌟</h1>
