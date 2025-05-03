@@ -1,5 +1,5 @@
 <!-- באנר עם טקסט מונפש -->
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Hi+there!+I'm+Daniel+Bonder+👋;Full-stack+Developer+%2F+Data+Analyst;Welcome+to+my+GitHub+profile!" />
 </p>
 
