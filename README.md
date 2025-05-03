@@ -30,6 +30,9 @@
 
 - 📊 **[Finland BI Dashboard](https://github.com/DanielBonder/Finland-BI-Dashboard)**  
   A Power BI project analyzing Finland's national statistics and regional trends
+
+- 🌐 **[My Portfolio Website](https://github.com/DanielBonder/portfolio)**  
+  An interactive personal portfolio built with HTML, CSS, JS & Three.js to showcase my work
 ---
 
 ### 🤝 Looking to Collaborate On:
