@@ -1,19 +1,17 @@
 <!-- באנר עם טקסט מונפש -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Hi+there!+I'm+Daniel+Bonder+👋;Full-stack+Developer+%7C+Data+Analyst;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Hi+there!+I'm+Daniel+Bonder+👋;Full-stack+Developer+%7C+Data+Analyst+%7C+Educator;Welcome+to+my+GitHub+profile!" />
 </p>
 
 <h1 align="center">🌟 Daniel Bonder 🌟</h1>
-<h3 align="center">
-  💻 Full-Stack Developer <br>
-  📊 Data Analyst
-</h3>
+<h3 align="center">Final-year student · Passionate about data, code & teaching</h3>
 
 ---
 
 ### 📘 About Me
 🎓 Final-year student in **Economics & Information Systems**  
-👨‍💻 Passionate about building tools that turn data into impact  
+👨‍🏫 I teach web development to high school students in Israel  
+💻 I love creating tools that turn complex data into simple, helpful solutions  
 🏆 Hackathon finalist – built a platform to support small businesses during crisis  
 🚀 Always eager to learn, collaborate, and grow in tech
 
