@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=22&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Daniel+Bonder+👋;Full-stack+Developer+%2F+Data+Analyst;Welcome+to+my+GitHub+profile!" />
 </p>
 
-
 <h1 align="center">🌟 Daniel Bonder 🌟</h1>
 <h3 align="center">Final-year student · Passionate about data, code & teaching</h3>
 
