@@ -40,6 +40,9 @@ Power BI dashboard visualizing national statistics by region.
 🌐 **[My Portfolio Website](https://github.com/DanielBonder/portfolio)**  
 Interactive portfolio built with HTML, CSS, JS & Three.js.
 
+📦 **[SAP Business One Simulation – Tnuva Case Study](https://github.com/DanielBonder/sapb1-tnuva-simulation)**  
+ERP project simulating full business workflows (sales, inventory, purchasing, finance) in SAP B1, based on the organizational structure of Tnuva.
+
 ---
 
 ### 📈 GitHub Stats
