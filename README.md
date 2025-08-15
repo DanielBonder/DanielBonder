@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">🌟 Daniel Bonder 🌟</h1>
-<h3 align="center">Final-year student · Passionate about data, code & teaching</h3>
+<h3 align="center">B.A. in Economics & Information Systems · Full-stack Developer & Data Analyst</h3>
 
 ---
 
 ### 📘 About Me
-🎓 Final-year student in **Economics & Information Systems**  
-👨‍🏫 I teach web development to high school students in Israel  
-💻 I love creating tools that turn complex data into simple, helpful solutions  
-🚀 Always eager to learn, collaborate, and grow in tech
+🎓 Graduated with a **B.A. in Economics & Information Systems** from Tel-Hai College  
+👨‍🏫 Experienced in teaching web development & programming to high school students in Israel  
+💻 Passionate about transforming complex data into simple, impactful solutions  
+🚀 Always eager to learn, collaborate, and contribute to meaningful tech projects
 
 ---
 
@@ -32,17 +32,20 @@
 
 ### 📌 Highlighted Projects
 
-🧠 **[Nutrition Management System](https://github.com/DanielBonder/diet)**  
-A full-stack system for dietitians and clients: meal plans, appointments & payment tracking.
+📊 **[Sales Targets BI Dashboard](https://github.com/DanielBonder/Sales-Targets-BI)**  
+Power BI dashboard tracking monthly sales vs. targets, with dynamic KPIs and annual forecasting.
 
-📊 **[Finland BI Dashboard](https://github.com/DanielBonder/Finland-BI-Dashboard)**  
+🧠 **[Nutrition Management System](https://github.com/DanielBonder/diet)**  
+Full-stack system for dietitians and clients: meal plans, appointments & payment tracking.
+
+📈 **[Finland BI Dashboard](https://github.com/DanielBonder/Finland-BI-Dashboard)**  
 Power BI dashboard visualizing national statistics by region.
+
+🏭 **[SAP Business One Simulation – Tnuva Case Study](https://github.com/DanielBonder/sapb1-tnuva-simulation)**  
+ERP project simulating end-to-end business workflows (sales, inventory, purchasing, finance).
 
 🌐 **[My Portfolio Website](https://github.com/DanielBonder/portfolio)**  
 Interactive portfolio built with HTML, CSS, JS & Three.js.
-
-📦 **[SAP Business One Simulation – Tnuva Case Study](https://github.com/DanielBonder/sapb1-tnuva-simulation)**  
-ERP project simulating full business workflows (sales, inventory, purchasing, finance) in SAP B1, based on the organizational structure of Tnuva.
 
 ---
 
@@ -58,11 +61,10 @@ ERP project simulating full business workflows (sales, inventory, purchasing, fi
 
 ---
 
-### 🤝 Let's Collaborate
-
-- 💡 Data-driven projects that solve real-world problems  
-- 🌍 Full-stack platforms with community impact  
-- 📊 Open-source dashboards and analytics tools
+### 🤝 Let's Collaborate On
+- Data-driven projects that deliver real business value  
+- Full-stack platforms with measurable community impact  
+- Open-source dashboards and analytics tools
 
 ---
 
@@ -76,9 +78,9 @@ ERP project simulating full business workflows (sales, inventory, purchasing, fi
 ---
 
 ### ⚡ Fun Fact
-> I believe that every problem can be simplified with the right UI, a smart query, or a touch of creativity.
+> I believe that every problem can be simplified with the right UI, a smart query, or a creative approach.
 
 ---
 
 > 📝 _This is a special repository because its `README.md` appears on my GitHub profile._  
-> Scroll through my repos – let’s connect and build something amazing!
+> Scroll through my repos – let’s connect and create something amazing!
